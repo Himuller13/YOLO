@@ -1,10 +1,11 @@
 # YOLO
 ### Object detection
 
-It was proposed in the paper [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640v5.pdf) byJoseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi.
+It was proposed in the paper [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640v5.pdf) by Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi.
 [YOLOv2]( https://arxiv.org/pdf/1612.08242v1.pdf)
 [YOLOv3](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 The open-source code, called [darknet](https://pjreddie.com/darknet/), is a neural network framework written in C and CUDA. The original github repository is [here](https://github.com/pjreddie/darknet).<br>
+Download weight files from [here](https://pjreddie.com/darknet/yolo/) or can download weights which i uploaded from [here](https://drive.google.com/drive/folders/1B9baF7YclCJIBWVtfNFNfJ8Ki83alY6p?usp=sharing).<br>
 TO see demo go to this link:
 https://www.youtube.com/playlist?list=PLPT4nZfpew9AYzJ72mWRgsYFMN8cGJh61
 
