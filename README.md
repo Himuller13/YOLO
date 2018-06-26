@@ -14,12 +14,15 @@ OpenCV,Python3,Tensorflow 1.0,numpy,Cython.
 ## Getting Started<br>
 Steps to get started with darkflow.<br>
 1. Clone the repository.<br>
-2.Just build the Cython extensions in place.<br>
+
+2. Just build the Cython extensions in place.<br>
 `python3 setup.py build_ext --inplace`<br>
-3.Install with pip globally.<br>
+
+3. Install with pip globally.<br>
 `pip install .`<br>
-<br>In windows to avoid Microsoft Visual C++ 14.0 error
- install visual C++ 2015 update 3 using [this installer](https://drive.google.com/open?id=13CM5Hgo7S7MSXWEpZZUwWkb5NL14gzK2).Check only visual c++ 2015 update 3.<br>
+<br>
+### In windows to avoid Microsoft Visual C++ 14.0 error install visual C++ 2015 update 3 using [this installer](https://drive.google.com/open?id=13CM5Hgo7S7MSXWEpZZUwWkb5NL14gzK2).Check only visual c++ 2015 update 3.<br>
+
 ### Parsing the annotations
 Skip this if you are not training or fine-tuning anything (you simply want to forward flow a trained net)
 
@@ -237,4 +240,4 @@ That's all.
 1. https://pjreddie.com/darknet/yolo/
 2. https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088.
 3. https://stackoverflow.com/questions/45114656/error-while-executing-import-tensorflow-as-tf
-4. Trieu `thrieu`
+4. Credits for the code Trieu `thrieu`.
