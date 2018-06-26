@@ -4,8 +4,8 @@
 It was proposed in the paper [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640v5.pdf) byJoseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi.
 [YOLOv2]( https://arxiv.org/pdf/1612.08242v1.pdf)
 [YOLOv3](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
-The open-source code, called [darknet](https://pjreddie.com/darknet/), is a neural network framework written in C and CUDA. The original github repository is [here](https://github.com/pjreddie/darknet).
-See demo below:
+The open-source code, called [darknet](https://pjreddie.com/darknet/), is a neural network framework written in C and CUDA. The original github repository is [here](https://github.com/pjreddie/darknet).<br>
+TO see demo go to this link:
 
 
 ## Dependencies:<br>
