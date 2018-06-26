@@ -6,6 +6,7 @@ It was proposed in the paper [You Only Look Once: Unified, Real-Time Object Dete
 [YOLOv3](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 The open-source code, called [darknet](https://pjreddie.com/darknet/), is a neural network framework written in C and CUDA. The original github repository is [here](https://github.com/pjreddie/darknet).<br>
 TO see demo go to this link:
+https://www.youtube.com/playlist?list=PLPT4nZfpew9AYzJ72mWRgsYFMN8cGJh61
 
 
 ## Dependencies:<br>
