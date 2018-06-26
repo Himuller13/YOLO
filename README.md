@@ -21,7 +21,7 @@ Steps to get started with darkflow.<br>
 3. Install with pip globally.<br>
 `pip install .`<br>
 <br>
-### In windows to avoid Microsoft Visual C++ 14.0 error install visual C++ 2015 update 3 using [this installer](https://drive.google.com/open?id=13CM5Hgo7S7MSXWEpZZUwWkb5NL14gzK2).Check only visual c++ 2015 update 3.<br>
+**In windows to avoid Microsoft Visual C++ 14.0 error install visual C++ 2015 update 3 using [this installer](https://drive.google.com/open?id=13CM5Hgo7S7MSXWEpZZUwWkb5NL14gzK2). Check only visual c++ 2015 update 3.**
 
 ### Parsing the annotations
 Skip this if you are not training or fine-tuning anything (you simply want to forward flow a trained net)
