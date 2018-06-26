@@ -231,5 +231,10 @@ flow --pbLoad built_graph/yolo.pb --metaLoad built_graph/yolo.meta --imgdir samp
 If you'd like to load a `.pb` and `.meta` file when using return_predict() you can set the "pbLoad" and "metaLoad" options in place of the "model" and "load" options you would normally set.
 
 That's all.
- 
 
+
+# Credits:
+1. https://pjreddie.com/darknet/yolo/
+2. https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088.
+3. https://stackoverflow.com/questions/45114656/error-while-executing-import-tensorflow-as-tf
+4. Trieu `thrieu`
